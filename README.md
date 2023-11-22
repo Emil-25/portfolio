@@ -1,1 +1,1 @@
-Hello, I'm Emil Rahimov, a dedicated Software Engineer on a mission to build innovative solutions that shape the digital world. I pursued my initial studies in petroleum engineering at BHOS, where I gained a strong foundation in engineering principles. However, my desire to explore the world of computer engineering led me to embark on a new educational path.
+## [My Portfolio](https://www.emilrahimov.me)
